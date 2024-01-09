@@ -20,7 +20,7 @@ Project : Membuat Sistem Checklist Kebersihan Toilet
 - [Link Pdf Proses Pembuatan](https://drive.google.com/file/d/1yA5gEotQnVc3kkQQGKy9QSEKU8UQXqFT/view)
 
 
-- [Link Demo on Web Hosting](https://projectuaskelompok6.000webhostapp.com/login.php)
+- [Link Demo on Web Hosting](https://checklistoilet.my.id/login.php)
 
 
 
