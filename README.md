@@ -1,7 +1,7 @@
 # ProjectUAS_Kelompok6
 
 
-Anggota Kelompok : 
+**Anggota Kelompok** : 
 1. Syifa Aurellia Rahma (312210009)
    
 2. Tiara Putri (312210064)
