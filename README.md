@@ -8,11 +8,11 @@
    
 3. Reza Kurniawan (312210436) 
 
-Kelas : TI.22.A1
+Kelas             : TI.22.A1
 
-Mata Kuliah : Pemrograman Web 1
+Mata Kuliah       : Pemrograman Web 1
 
-Project : Membuat Sistem Checklist Kebersihan Toilet
+Project           : Membuat Sistem Checklist Kebersihan Toilet
 
 - [Link Dokumentasi YouTube](https://youtu.be/AkyfTfaB6Hk?si=zKpqTrL3Aqm6GTnT)
 
